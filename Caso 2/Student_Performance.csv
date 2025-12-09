@@ -1,0 +1,7 @@
+Nombre de la Variable;Descripción;Tipo de Dato;Rango / Valores Posibles
+Hours Studied;Número de horas que el estudiante estudia por día.;Entero;1 a 9
+Previous Scores;Puntaje previo del estudiante en evaluaciones anteriores.;Entero;40 a 99
+Extracurricular Activities;Estudiante participa en actividades extracurriculares.;Categórica binaria;Yes / No
+Sleep Hours;Número de horas que el estudiante duerme por día.;Entero;4 a 9
+Sample Question Papers Practiced;Número de exámenes de práctica realizados.;Entero;0 a 10
+Performance Index;Índice final de rendimiento académico del estudiante.;Float;10 a 100
